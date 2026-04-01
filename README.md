@@ -24,6 +24,4 @@ I am actively learning and applying the following tools:
 * **Upcoming**: SQL Employee Database Analysis and Python Data Analysis projects.
 
 ##  How to Run Locally
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/Aiswarya573/portfolio.git](https://github.com/Aiswarya573/portfolio.git)
+Link:https://aiswarya573.github.io/Aiswarya-Portfolio/
