@@ -24,4 +24,4 @@ I am actively learning and applying the following tools:
 * **Upcoming**: SQL Employee Database Analysis and Python Data Analysis projects.
 
 ##  How to Run Locally
-Link:https://aiswarya573.github.io/Aiswarya-Portfolio/
+Link: https://aiswarya573.github.io/Aiswarya-Portfolio/
